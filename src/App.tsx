@@ -7,6 +7,9 @@ export const App = () => {
       <header className="App-header">
         commit 1
           commit 2
+          commit 2
+          commit 2
+          commit 2
       </header>
     </div>
   );
