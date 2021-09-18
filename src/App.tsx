@@ -10,6 +10,8 @@ export const App = () => {
           commit 2
 
         moya ofigennaya ficha gotova
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet architecto doloremque dolorum ex facilis fugiat fugit harum, hic ipsa maiores molestiae molestias officia omnis quidem quos tempore veniam vero.
+        moya ofigemcndssjcjsd
 
         commit something else - borshch
       </header>
