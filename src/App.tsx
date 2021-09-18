@@ -19,13 +19,5 @@ export const App = () => {
       </header>
     </div>
   );
-    return (
-        <div className="App">
-            <header className="App-header">
-
-                bubkaaaaaaaaaaaaaaaaaaaaaa
-            </header>
-        </div>
-    )
 }
 
