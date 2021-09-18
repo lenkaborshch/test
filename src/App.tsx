@@ -12,7 +12,7 @@ export const App = () => {
                 moya ofigennaya ficha gotova
                 cvmdsjvndjsnk moya ofigemcndssjcjsd
 
-                commit something else - borshch
+                commit something else - borshch elenaksds
             </header>
         </div>
     )
